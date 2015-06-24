@@ -1,5 +1,5 @@
 # random
-Ejemplo del m√≥dulo 5
+Ejemplo del MÛdulo 5
 
 1.- Hacer fork del proyecto https://github.com/jquemada/random GITHUB.
 2.- clonamos el repositorio en nuestro ordenador local 
